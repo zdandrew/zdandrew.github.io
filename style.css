@@ -1,17 +1,16 @@
 #intro {
     text-align: center;
-    background-color: beige;
-    color: red;
+    color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-#drinks {
+#links {
     text-align: center;
-    background-color: yellow;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
     color: blue;
 }
 
 #pics {
     text-align: center;
-    background-color: beige;
-    color: rgb(49, 145, 157);
 }
